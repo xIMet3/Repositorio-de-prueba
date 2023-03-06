@@ -1,2 +1,3 @@
 # Repositorio-de-prueba
-Este es mi primer repositorio de prueba.
+
+Esta es mi primera edicion desde  Geekshub Academy.
